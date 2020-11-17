@@ -1,2 +1,3 @@
 # google-homepage
-A copy of the Google Homepage
+Simple copy of the Google Homepage
+=)
