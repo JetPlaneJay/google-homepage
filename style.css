@@ -1,0 +1,166 @@
+
+      .img-container {
+         text-align:center;
+        margin-top: 150px;
+       
+      }
+      .buttontime {
+        text-align:center;
+      }
+      .searchbar {
+               text-align: center;
+        
+      }
+
+      #searchbar {
+        height: 30px;
+        width: 650px;
+        border-radius: 15px;
+        outline = none;
+        text align: center;
+        background-size: 30px;
+        box-sizing: content-box;
+        border-color: gray;
+ }
+
+
+
+.topline {
+  font-size: 16px;
+  color: rgb(50,50,50);
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.topline:hover {
+  text-decoration: underline;
+}
+
+
+.topline1 {
+  font-size: 16px;
+  color: rgb(50,50,50);
+  margin-right: 1.5em;
+  text-decoration: none;
+}
+
+.topline1:hover {
+  text-decoration: underline;
+}
+    
+
+.topline2 {
+  font-size: 16px;
+  color: rgb(50,50,50);
+  margin-right: 8.5em;
+  text-decoration: none;
+  }
+
+.topline2:hover {
+  text-decoration: underline;
+}
+    
+     
+.hamburger {
+  position: absolute;
+  right: 90px;
+    width: 18px;
+    height: auto;
+  float: right;
+  margin-left: .5px;
+  align: right;
+}
+
+.me {
+  position: absolute;
+  right: 50px;
+    width: 19px;
+    height: auto;
+  float: right;
+  margin-left: .5px;
+  align: right;
+}
+
+
+.feet {
+  background-color: rgb(240,240,240);
+  bottom: 0px;
+  margin-top: 200px;
+  height: 40px;
+  border-style: none;
+  
+}
+
+.adv {
+   margin-top: 10px;
+  font-size: 16px;
+  color: rgb(50,50,50);
+  text-decoration: none;
+  margin-bottom: 1px;
+  margin-left: 10px;
+  
+}
+
+.adv:hover {
+  text-decoration: underline;
+}
+
+.business {
+  font-size: 16px;
+  color: rgb(50,50,50);
+  margin-left: 1.5em;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.business:hover {
+  text-decoration: underline;
+}
+
+.how {
+  font-size: 16px;
+  color: rgb(50,50,50);
+  margin-left: 1.5em;
+  text-decoration: none; 
+  margin-top: 10px;
+}
+
+.how:hover {
+  text-decoration: underline;
+}
+
+.settings {
+  font-size: 16px;
+  color: rgb(50,50,50);
+  margin-left: 1.5em;
+  text-decoration: none;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.settings:hover {
+  text-decoration: underline;
+}
+.terms {
+  font-size: 16px;
+  color: rgb(50,50,50);
+  margin-left: 1.5em;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.terms:hover {
+  text-decoration: underline;
+}
+
+.priv {
+  font-size: 16px;
+  color: rgb(50,50,50);
+  margin-left: 1.5em;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+.priv:hover {
+  text-decoration: underline;
+}
